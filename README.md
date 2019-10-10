@@ -38,7 +38,7 @@ sending, updating and deleting information that we explore in later lessons,
 but for now, we will focus on the GET request. Don't worry though, the GET
 request can... _get_ us quite far on its own!
 
-[other types of request]: https://www.w3schools.com/tags/ref_httpmethods.asp
+[other types of requests]: https://www.w3schools.com/tags/ref_httpmethods.asp
 
 In Ruby code, we don't have the luxurious graphical user interface of a browser,
 but we can still send GET requests in a similar fashion using built-in Ruby
