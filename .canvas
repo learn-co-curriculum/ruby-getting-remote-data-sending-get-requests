@@ -4,3 +4,7 @@
   :course_id: 353
   :canvas_url: https://learning.flatironschool.com/courses/353/pages/sending-get-requests
   :type: page
+- :id: 11789
+  :course_id: 353
+  :canvas_url: https://learning.flatironschool.com/courses/353/pages/code-along-getting-remote-data-2
+  :type: page
